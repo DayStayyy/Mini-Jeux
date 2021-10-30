@@ -1,0 +1,27 @@
+- on demande les noms 
+
+- on créé des liste 
+
+- on créé le dessin 
+| | | | |
+| | | | |
+| | | | |
+
+avec des liste pour les espaces 
+
+boucle :
+	sys_tours
+	
+	on affiche 
+	
+	boucle :
+		on demande la colone
+		on verifie
+	
+	on remplace la colone et on add un a la variables de hauteur 
+
+	on verifie une victoire :
+		losque qu'un pions est posé on regarde les signes des trucs autour, 
+		
+		si c'est le meme on continue sur la ligne/diagonales
+		
